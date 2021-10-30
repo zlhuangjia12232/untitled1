@@ -17,6 +17,9 @@ public class github {
         System.out.println("enen test");
         System.out.println(" test");
         System.out.println(" test");
+          System.out.println(" test32
+                             12
+                             1");
 
     }
 }
