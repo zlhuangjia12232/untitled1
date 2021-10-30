@@ -7,5 +7,8 @@ public class github {
         System.out.println("hello 3");
         System.out.println("hello 4");
         System.out.println("master-test!");
+        System.out.println("host-fix test");
+        System.out.println("push test");
+
     }
 }
