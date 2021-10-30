@@ -10,6 +10,8 @@ public class github {
         System.out.println("host-fix test");
         System.out.println("push test");
         System.out.println("hahah test");
+        System.out.println("hahah test");
+        System.out.println("hahah test");
 
     }
 }
